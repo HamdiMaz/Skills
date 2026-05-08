@@ -8,7 +8,11 @@ This repository is meant to be used as a Git-backed skill source. `sv` can list 
 
 | Skill | When to use |
 | --- | --- |
+| [`brainstorming`](skills/brainstorming/) | Exploring intent, requirements, approaches, and design before creative work or behavior changes. |
+| [`find-docs`](skills/find-docs/) | Retrieving current documentation, API references, and examples for developer technologies. |
 | [`github-release`](skills/github-release/) | Creating or publishing a GitHub release from repository version metadata, changelog entries, git tags, and the GitHub CLI. |
+| [`guiding-product-specs`](skills/guiding-product-specs/) | Creating or refining product specs, MVP specs, PRDs, user flows, dashboard states, and scope boundaries. |
+| [`systematic-debugging`](skills/systematic-debugging/) | Investigating bugs, test failures, or unexpected behavior before proposing fixes. |
 | [`writing-skills`](skills/writing-skills/) | Creating new skills, editing existing skills, or verifying skills before deployment. |
 
 ## Use with sv

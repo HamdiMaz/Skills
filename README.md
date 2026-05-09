@@ -13,6 +13,7 @@ This repository is meant to be used as a Git-backed skill source. `sv` can list 
 | [`github-release`](skills/github-release/) | Creating or publishing a GitHub release from repository version metadata, changelog entries, git tags, and the GitHub CLI. |
 | [`guiding-product-specs`](skills/guiding-product-specs/) | Creating or refining product specs, MVP specs, PRDs, user flows, dashboard states, and scope boundaries. |
 | [`systematic-debugging`](skills/systematic-debugging/) | Investigating bugs, test failures, or unexpected behavior before proposing fixes. |
+| [`using-bx`](skills/using-bx/) | Using the Brave Search CLI for general web search, current public facts, news, research, and source grounding. |
 | [`writing-skills`](skills/writing-skills/) | Creating new skills, editing existing skills, or verifying skills before deployment. |
 
 ## Use with sv

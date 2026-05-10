@@ -1,9 +1,9 @@
 ---
-name: using-bx
+name: web-search
 description: Use when needing general web search, current public web facts, news, factual research, source grounding, non-documentation lookups, fact-checking, or public web content via the Brave Search CLI; not for library, framework, SDK, CLI, cloud-service, API, setup, configuration, or migration documentation, where find-docs applies.
 ---
 
-# Using bx
+# Web Search with Brave Search CLI (bx)
 
 ## Overview
 

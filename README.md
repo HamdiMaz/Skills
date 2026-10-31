@@ -89,4 +89,8 @@ MIT
 <!-- sv:skills:start -->
 | Skill | Description |
 | --- | --- |
+| find-docs | &gt;- |
+| github-release | Use when creating or publishing a GitHub release from repository version metadata, changelog entries, git tags, and the GitHub CLI. |
+| web-search | Use when needing general web search, current public web facts, news, factual research, source grounding, non-documentation lookups, fact-checking, or public web content via the Brave Search CLI; not for library, framework, SDK, CLI, cloud-service, API, setup, configuration, or migration documentation, where find-docs applies. |
+| writing-skills | Creates and improves Pi agent skills using test-driven skill development. Use when creating, editing, validating, or pressure-testing SKILL.md files, especially before deploying skills. |
 <!-- sv:skills:end -->

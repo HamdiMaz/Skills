@@ -1,4 +1,36 @@
 schema_version = 1
 kind = "skill-vault"
 generated_by = "sv"
-generated_at = "2026-05-16T07:52:47Z"
+generated_at = "2026-10-31T20:22:43Z"
+
+[[skills]]
+name = "find-docs"
+description = ">-"
+source_path = "skills/find-docs"
+content_hash = "sha256:df751451480938e5fd1dae23b6cb13cfef8973a6759e261f9ccd3367dc5d3a66"
+skill_file_hash = "sha256:40aeca92d906435911d2579423453669af2f7affea0cfe4f9d520f6c51924117"
+executable_paths = []
+
+[[skills]]
+name = "github-release"
+description = "Use when creating or publishing a GitHub release from repository version metadata, changelog entries, git tags, and the GitHub CLI."
+source_path = "skills/github-release"
+content_hash = "sha256:01fbfb2f8073b5fce89a82fb97d5085a3aa491f25433ed6ab6ca8097bc45b3f8"
+skill_file_hash = "sha256:03d63973a76b5f2bdd2b1abd30ca70621317bc2bedf5f5b3857c85a834bb3c81"
+executable_paths = []
+
+[[skills]]
+name = "web-search"
+description = "Use when needing general web search, current public web facts, news, factual research, source grounding, non-documentation lookups, fact-checking, or public web content via the Brave Search CLI; not for library, framework, SDK, CLI, cloud-service, API, setup, configuration, or migration documentation, where find-docs applies."
+source_path = "skills/web-search"
+content_hash = "sha256:7cd42c16cafbed2e27cadeeb48dbd4c6252b30cdbee1bf1c20bb062cbc3c3079"
+skill_file_hash = "sha256:841ed05f56b167bce8be105de572fb2df9f27d4c0ce1085e34c818b603775e43"
+executable_paths = []
+
+[[skills]]
+name = "writing-skills"
+description = "Creates and improves Pi agent skills using test-driven skill development. Use when creating, editing, validating, or pressure-testing SKILL.md files, especially before deploying skills."
+source_path = "skills/writing-skills"
+content_hash = "sha256:eaf63c9ff51fc0f4f444586afb061c18707b02e3f373cb33aa62038568636369"
+skill_file_hash = "sha256:595dc7f5c16c056a0642db9852eec794b3754d44b03f636eda9b30aa7f56ae1f"
+executable_paths = ["scripts/validate_skill.py"]

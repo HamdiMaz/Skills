@@ -1,14 +1,14 @@
 schema_version = 1
 kind = "skill-vault"
 generated_by = "sv"
-generated_at = "2026-10-31T20:22:43Z"
+generated_at = "2026-10-31T20:26:45Z"
 
 [[skills]]
 name = "find-docs"
-description = ">-"
+description = "Looks up current docs, API references, and code examples for any library, framework, SDK, CLI, or cloud service. Use for any named-technology API, config, setup, migration, or debugging question. Prefer over web search."
 source_path = "skills/find-docs"
-content_hash = "sha256:df751451480938e5fd1dae23b6cb13cfef8973a6759e261f9ccd3367dc5d3a66"
-skill_file_hash = "sha256:40aeca92d906435911d2579423453669af2f7affea0cfe4f9d520f6c51924117"
+content_hash = "sha256:235710c2bfae59ab00e5fe2e43c125391b81952f4bd808c7786401724e27ff5e"
+skill_file_hash = "sha256:8be72ee41aa7186aed2ba2b70bda989932ee62b89c50112fff1a25ce589c5b6b"
 executable_paths = []
 
 [[skills]]

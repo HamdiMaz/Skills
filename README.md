@@ -85,3 +85,8 @@ To update a skill, edit its folder in this repository. Users can pull the latest
 ## License
 
 MIT
+
+<!-- sv:skills:start -->
+| Skill | Description |
+| --- | --- |
+<!-- sv:skills:end -->
